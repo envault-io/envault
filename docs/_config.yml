@@ -5,4 +5,6 @@ favicon_ico: "/assets/images/favicon.ico"
 theme: just-the-docs
 url: https://docs.envault.io
 aux_links:
-  Template Repository: https://github.com/envault-io/envault
+  envault.io: https://envault.io
+  Envault Docs on GitHub: https://github.com/envault-io/envault
+aux_links_new_tab: true
