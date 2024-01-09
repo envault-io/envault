@@ -1,8 +1,8 @@
 title: Envault Documentation
 description: Your data, your way
+logo: "/assets/images/envault.png"
+favicon_ico: "/assets/images/favicon.ico"
 theme: just-the-docs
-
 url: https://docs.envault.io
-
 aux_links:
   Template Repository: https://github.com/envault-io/envault
