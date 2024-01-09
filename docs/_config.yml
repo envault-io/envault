@@ -1,6 +1,8 @@
-title: Envault
+title: Envault Documentation
 description: Your data, your way
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+theme: just-the-docs
+
+url: https://docs.envault.io
+
+aux_links:
+  Template Repository: https://github.com/envault-io/envault
