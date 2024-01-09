@@ -2,7 +2,7 @@
 layout: default
 title: Permissions
 nav_order: 1
-
+parent: Admin
 ---
 # Envault Permission System
 Permissions in Envault are based on [Access Control Lists (ACL's)](https://en.wikipedia.org/wiki/Access-control_list) and use [Create, Read, Update, Delete (CRUD)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) policies to provide access to the node tree. \
